@@ -1,0 +1,3 @@
+git add .
+git commit -m "Fix Netlify 404 by setting correct build folder and redirects"
+git push origin main
